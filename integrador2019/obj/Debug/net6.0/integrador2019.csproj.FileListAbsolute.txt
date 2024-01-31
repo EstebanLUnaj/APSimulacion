@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\integrador2019\integrador2019\bin\Debug\net6.0\integrador2019.exe
+C:\Users\admin\source\repos\integrador2019\integrador2019\bin\Debug\net6.0\integrador2019.deps.json
+C:\Users\admin\source\repos\integrador2019\integrador2019\bin\Debug\net6.0\integrador2019.runtimeconfig.json
+C:\Users\admin\source\repos\integrador2019\integrador2019\bin\Debug\net6.0\integrador2019.dll
+C:\Users\admin\source\repos\integrador2019\integrador2019\bin\Debug\net6.0\integrador2019.pdb
+C:\Users\admin\source\repos\integrador2019\integrador2019\obj\Debug\net6.0\integrador2019.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\integrador2019\integrador2019\obj\Debug\net6.0\integrador2019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\integrador2019\integrador2019\obj\Debug\net6.0\integrador2019.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\integrador2019\integrador2019\obj\Debug\net6.0\integrador2019.AssemblyInfo.cs
+C:\Users\admin\source\repos\integrador2019\integrador2019\obj\Debug\net6.0\integrador2019.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\integrador2019\integrador2019\obj\Debug\net6.0\integrador2019.dll
+C:\Users\admin\source\repos\integrador2019\integrador2019\obj\Debug\net6.0\refint\integrador2019.dll
+C:\Users\admin\source\repos\integrador2019\integrador2019\obj\Debug\net6.0\integrador2019.pdb
+C:\Users\admin\source\repos\integrador2019\integrador2019\obj\Debug\net6.0\integrador2019.genruntimeconfig.cache
+C:\Users\admin\source\repos\integrador2019\integrador2019\obj\Debug\net6.0\ref\integrador2019.dll
